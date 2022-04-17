@@ -3,10 +3,10 @@ body{
 	padding: 0;
 	font-family: cursive;
 	background-image: url(back.gif);
-	background-siz;
+	background-size: cover;
 }
 .nischal{
-	width: 400px;
+	width: 300px;
 	padding: 30px;
 	position: absolute;
 	top: 50%;
