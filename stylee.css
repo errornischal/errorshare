@@ -4,6 +4,7 @@ body{
 	font-family: sans-serif;
 	background-image: url(background.gif);
 	background-size: auto;
+	background-repeat: no-repeat;
 	overflow: hidden;
 }
 .nischal{
