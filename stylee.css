@@ -3,7 +3,8 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 	background-image: linear-gradient(#e34e3c, #ecc411);
-	background-size: cover;
+	background-size: fill;
+	overflow: hidden;
 }
 .nischal{
 	width: 300px;
