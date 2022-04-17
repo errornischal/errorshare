@@ -4,6 +4,7 @@ body{
 	font-family: cursive;
 	background-image: url(back.gif);
 	background-size: cover;
+	backgrounf-repeat: no-repeat;
 }
 .nischal{
 	width: 400px;
