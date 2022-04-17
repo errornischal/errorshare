@@ -79,7 +79,7 @@ section:before
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 150%;
 	height: 25%;
     background: rgba(253,253,253,0.3);
     border-radius: 0 0 50% 50%/0 0 80% 80%;
