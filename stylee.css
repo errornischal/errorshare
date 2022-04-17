@@ -3,7 +3,8 @@ body{
 	padding: 0;
 	font-family: cursive;
 	background-image: url(back.gif);
-	backgrounf-repeat: no-repeat;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .nischal{
 	width: 300px;
