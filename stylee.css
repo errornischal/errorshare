@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	font-family: cursive;
+	font-family: sans-serif;
 	background-image: url(background.gif);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -73,7 +73,6 @@ body{
 	height: 30vh;
 	justify-content: center;
         align-items: center;
-	font-size: 10px;
 }
 section:before
 {
