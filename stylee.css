@@ -68,6 +68,8 @@ body{
 .box{
 	position: relative;
 	text-align: center;
+	max-width: 100vh;
+	height: 30vh;
 	justify-content: center;
 	left: 0%;
 }
